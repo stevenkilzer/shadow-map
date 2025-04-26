@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Vallejo-1.umap",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Uncut_Grass_pftph0/Medium/T_pftph0_2K_N.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Uncut_Grass_pftph0/Medium/T_pftph0_2K_ORM.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Uncut_Grass_pftph0/Medium/T_pftph0_2K_B.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Uncut_Grass_pftph0/Medium/MI_pftph0.uasset",
+				"/Users/Shared/Epic Games/UE_5.5/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Srf.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Uncut_Grass_pjwid0/Medium/T_pjwid0_2K_N.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Uncut_Grass_pjwid0/Medium/T_pjwid0_2K_ORM.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Uncut_Grass_pjwid0/Medium/T_pjwid0_2K_B.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Uncut_Grass_pjwid0/Medium/MI_pjwid0.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Garden_Seating/garden_seating.uasset",
+				"/Users/Shared/Epic Games/UE_5.5/Engine/Plugins/Runtime/SunPosition/Content/SunSky.uasset",
+				"/Users/Shared/Epic Games/UE_5.5/Engine/Content/BasicShapes/Plane.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Furniture_Fabric_sjfvdgbc/Medium/T_sjfvdgbc_2K_N.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Furniture_Fabric_sjfvdgbc/Medium/T_sjfvdgbc_2K_ORM.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Furniture_Fabric_sjfvdgbc/Medium/T_sjfvdgbc_2K_B.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Furniture_Fabric_sjfvdgbc/Medium/MI_sjfvdgbc.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Furniture_Fabric_sjfvddvc/Medium/T_sjfvddvc_2K_N.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Furniture_Fabric_sjfvddvc/Medium/T_sjfvddvc_2K_ORM.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Furniture_Fabric_sjfvddvc/Medium/T_sjfvddvc_2K_B.uasset",
+				"/Users/stevenkilzer/Desktop/dev/shadow-map/Vallejo-1/Content/Fab/Megascans/Surfaces/Furniture_Fabric_sjfvddvc/Medium/MI_sjfvddvc.uasset"
+			]
+		}
+	]
+}
